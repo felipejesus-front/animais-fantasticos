@@ -20,7 +20,7 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 1fr 120px minmax(300px, 800px) 1fr;
+  grid-template-columns: 1fr 120px minmax(300px, 800px) 2fr;
 }
 
 .menu {
